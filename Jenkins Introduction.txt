@@ -1,0 +1,12 @@
+1. What is Jenkins?
+Ans. CI(Continuous Integration) Tool or Build Tool
+
+------------------------------------------------------
+
+2. What is CI?
+Ans. Automated Build + Automated Testing (Not Manual Build and Testing) -----> After Build ----> Get Imediate Feedback (Through Mail)
+     It's a process to setup a automated build and testing and get imediate feedback from it.
+     Feedback is important but it's success or faild it's doesn't matter. 
+     It's matter to developer if it's getting the feedback imediately so that they can work on it. 
+
+------------------------------------------------------
