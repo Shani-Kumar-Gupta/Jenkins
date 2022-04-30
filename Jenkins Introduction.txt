@@ -1,5 +1,5 @@
 1. What is Jenkins?
-Ans. CI(Continuous Integration) Tool or Build Tool
+Ans. CI(Continuous Integration) Tool or Build Tool and it's developed in JAVA.
 
 ------------------------------------------------------
 
@@ -40,3 +40,15 @@ Ans. Automation (No Manual Work)
      Only Feedback is required if any one of the above mentioned phases is failed due to some error.
      ALL PASS --> Release
      ONE FAILED --> Repeat All the Step
+
+5. Give me a tool which would
+   - Integrate all phases of SDLC
+   - Integrate All Teams
+   - Integrate all Tools ?
+Ans. JENKINS
+
+6. JENKINS Tools Available?
+Ans. 1. Community - Jenkins - Free - OpenSourse
+     2. Jenkins Enterprise by CloudBees - Paid
+     3. BlueOcean - Pipeline
+     4. JenkinsX - Container
