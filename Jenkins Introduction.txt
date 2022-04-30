@@ -10,3 +10,15 @@ Ans. Automated Build + Automated Testing (Not Manual Build and Testing) -----> A
      It's matter to developer if it's getting the feedback imediately so that they can work on it. 
 
 ------------------------------------------------------
+
+3. SDLC (Software Development Lifecycle) PHASE?
+Ans. -> PLAN (System Design and Analysis) 
+     -> CODE (Development) 
+     -> CODE REVIEW 
+     -> BUILD 
+     -> UNIT TESTING
+     -> Packaging (System and Application Packaging)
+     -> Archiving (Store all the packages at one place)
+     -> Deployment (On QA Envirnoment)
+     -> Acceptance Testing
+     -> Code Coverage
