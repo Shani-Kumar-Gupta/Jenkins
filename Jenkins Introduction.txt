@@ -12,13 +12,31 @@ Ans. Automated Build + Automated Testing (Not Manual Build and Testing) -----> A
 ------------------------------------------------------
 
 3. SDLC (Software Development Lifecycle) PHASE?
-Ans. -> PLAN (System Design and Analysis) 
-     -> CODE (Development) 
-     -> CODE REVIEW 
-     -> BUILD 
-     -> UNIT TESTING
-     -> Packaging (System and Application Packaging)
-     -> Archiving (Store all the packages at one place)
-     -> Deployment (On QA Envirnoment)
-     -> Acceptance Testing
-     -> Code Coverage
+Ans. -> PLAN (System Design and Analysis) --> ARCH Team 
+     -> CODE (Development)  --> Dev Team
+     -> CODE REVIEW --> Dev Team
+     -> BUILD --> Dev Team
+     -> UNIT TESTING --> Dev Team
+     -> Packaging (System and Application Packaging) --> Dev Team
+     -> Archiving (Store all the packages at one place) --> Dev Team
+     -> Deployment (On QA Envirnoment) --> QA Team
+     -> Acceptance Testing --> QA Team
+     -> Code Coverage --> QA Team
+
+4. What do we want?
+Ans. Automation (No Manual Work)
+						
+     -> PLAN (System Design and Analysis) --> (Automation not possible)
+     -> CODE (Development)  --> Dev Team --> (Automation not possible)
+     -> CODE REVIEW --> Dev Team --> (Automation Possible)
+     -> BUILD --> Dev Team --> (Automation Possible)
+     -> UNIT TESTING --> Dev Team --> (Automation Possible)
+     -> Packaging (System and Application Packaging) --> Dev Team --> (Automation Possible)
+     -> Archiving (Store all the packages at one place) --> Dev Team --> (Automation Possible)
+     -> Deployment (On QA Envirnoment) --> QA Team --> (Automation Possible)
+     -> Acceptance Testing --> QA Team --> (Automation Possible)
+     -> Code Coverage --> QA Team --> (Automation Possible)
+
+     Only Feedback is required if any one of the above mentioned phases is failed due to some error.
+     ALL PASS --> Release
+     ONE FAILED --> Repeat All the Step
